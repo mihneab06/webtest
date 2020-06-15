@@ -1,0 +1,33 @@
+h2 {
+	color: #0c8e05;
+}
+
+div {
+	background-color: teal;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	padding: 10px;
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+	border: 5px solid black;
+}
+body {
+    margin:50px 0; 
+    padding:0;
+    text-align:center;
+}
+
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+	margin: 10px;
+	width: 60%;
+	text-align: center;
+}
+
+tr, td, th {
+	border: 2px solid black;
+	border-collapse: collapse;
+	padding: 3px;
+}
